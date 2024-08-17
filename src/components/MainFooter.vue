@@ -8,11 +8,11 @@
                 <div class="footer-col">
                     <h4>Contact</h4>
                     <span>
-                        <strong>Address: </strong>562 Wellington Road, San
-                        Francisco
+                        <strong>Mail: </strong> infoBuy@Outlook.com
                     </span>
                     <span
-                        ><strong>Phone: </strong>+01-2222-365/+01-2343-563</span
+                        ><strong>Phone: </strong>+20 2 9876 5432
+                        </span
                     >
                     <span><strong>Hours: </strong>8:00 - 20:00, Mon - Sat</span>
                     <h4>Follow us</h4>
@@ -153,10 +153,7 @@
                         <img src="@/assets/images/paysafe.svg" alt="paysafe" />
                     </div>
                 </div>
-                <p class="copyright">
-                    Buy-It. &copy; {{date}}. Built by Fexavier with
-                    <span>Vue.❤️</span>
-                </p>
+               
             </div>
         </div>
     </footer>
